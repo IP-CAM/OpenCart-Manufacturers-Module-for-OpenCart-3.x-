@@ -1,4 +1,4 @@
-# OpenCart Manufacturers Module
+# OpenCart Manufacturers Module for OpenCart 3.x
 
 Bellow example with an image module on site
 
