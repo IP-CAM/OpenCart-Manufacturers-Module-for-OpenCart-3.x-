@@ -8,7 +8,7 @@
 
 ![Example](https://github.com/azikooo777/opencart-manufacturers-module/blob/master/images/example-2.png)
 
-**Чтобы скрыть изображение удалите img тег в шаблоне, или скройте через стили display:none
+**Чтобы скрыть изображение удалите img тег в шаблоне, или скройте через стили display:none**
 
 Ниже пример изображения модуля как выглядет в админ панели
 
