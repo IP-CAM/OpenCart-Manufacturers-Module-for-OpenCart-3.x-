@@ -4,7 +4,7 @@ Bellow example with an image module on site
 
 ![Example](https://github.com/azikooo777/opencart-manufacturers-module/blob/master/images/example-1.png)
 
-Bellow example with an image module in admin pannel
+Bellow example with an image module on site with image tag
 
 ![Example](https://github.com/azikooo777/opencart-manufacturers-module/blob/master/images/example-2.png)
 
