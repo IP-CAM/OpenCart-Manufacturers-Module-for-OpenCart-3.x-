@@ -4,7 +4,7 @@
 
 ![Example](https://github.com/azikooo777/opencart-manufacturers-module/blob/master/images/example-1.png)
 
-Ниже пример изображения модуля как выглядет на сайте с изображением
+По умолчанию. Ниже пример изображения модуля как выглядет на сайте с изображением
 
 ![Example](https://github.com/azikooo777/opencart-manufacturers-module/blob/master/images/example-2.png)
 
